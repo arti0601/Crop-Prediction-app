@@ -33,8 +33,8 @@ An intelligent crop recommendation system that helps farmers decide the most sui
 
 ## 📸 Screenshots
 
-<img src="https://your-screenshot-link.com" alt="Homepage" width="500" />
-<img src="https://your-screenshot-link.com" alt="Prediction Page" width="500" />
+<img src="C:\Users\artik\OneDrive\Desktop\Documents\s1.png" alt="Homepage" width="500" />
+<img src="C:\Users\artik\OneDrive\Desktop\Documents\s2.png" alt="Prediction Page" width="500" />
 
 ---
 
