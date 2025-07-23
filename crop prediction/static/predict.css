@@ -39,15 +39,16 @@ body {
     justify-content: center;
     align-items: center;
     height: 100%;
+   
 }
 
 /* Animated card */
 .card {
     background-color: rgba(255, 255, 255, 0.95);
     padding: 25px 30px;
-    border-radius: 18px;
+    border-radius: 8px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-    width: 350px;
+    width: 400px;
     animation: fadeInUp 1s ease-in-out;
 }
 
@@ -65,8 +66,9 @@ form {
 
 label {
     margin-bottom: 6px;
-    font-weight: bold;
-    color: #333;
+   
+    color: #09addf;
+    text-align: center;
 }
 
 input[type="text"] {
